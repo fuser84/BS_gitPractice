@@ -53,3 +53,7 @@ Amazon, Baidu, Google, IBM, Microsoft и другие уже предлагаю�
 #modify this file in order to provoke conflict
 #second attempt to provoke conflict
 1111111111111111111111111111111111111111111111111111111111111111 - figured to provoke conflict
+
+Add tags for the conflict:
+
+<h1>I hope this attempt will bring the conflict between branches</h1>
